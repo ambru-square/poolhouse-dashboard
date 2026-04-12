@@ -1,0 +1,13 @@
+# Ignore data files
+raw_data.csv
+*.csv
+
+# Ignore system files
+.DS_Store
+.vercel
+
+# Ignore backup files
+*.bak
+*~
+
+# Keep only the public HTML
